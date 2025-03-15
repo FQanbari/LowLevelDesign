@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMovieTicketBookingSystem", "src\OnlineMovieTicketBookingSystem\OnlineMovieTicketBookingSystem.csproj", "{623A5C53-C9B4-45FA-A13E-19406FB2E0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommercePlatform", "src\EcommercePlatform\EcommercePlatform.csproj", "{AD923968-D0B8-4BE2-B64A-69A106BAB5D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623A5C53-C9B4-45FA-A13E-19406FB2E0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623A5C53-C9B4-45FA-A13E-19406FB2E0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623A5C53-C9B4-45FA-A13E-19406FB2E0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623A5C53-C9B4-45FA-A13E-19406FB2E0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD923968-D0B8-4BE2-B64A-69A106BAB5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD923968-D0B8-4BE2-B64A-69A106BAB5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD923968-D0B8-4BE2-B64A-69A106BAB5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD923968-D0B8-4BE2-B64A-69A106BAB5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
