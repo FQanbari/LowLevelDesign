@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook", "src\Facebook\Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "src\LibraryManagementSystem\LibraryManagementSystem.csproj", "{74E53EB7-CAD8-4C8E-9E46-E5E1013E775E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn", "src\LinkedIn\LinkedIn.csproj", "{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{74E53EB7-CAD8-4C8E-9E46-E5E1013E775E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E53EB7-CAD8-4C8E-9E46-E5E1013E775E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E53EB7-CAD8-4C8E-9E46-E5E1013E775E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
