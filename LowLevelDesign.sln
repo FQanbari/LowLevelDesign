@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTellerMachine", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalSystem", "src\CarRentalSystem\CarRentalSystem.csproj", "{87263D68-33D7-4F80-9831-EDABF870C011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook", "src\Facebook\Facebook.csproj", "{4E1E68BD-D42F-44FC-A263-883D61BCD0BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{87263D68-33D7-4F80-9831-EDABF870C011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87263D68-33D7-4F80-9831-EDABF870C011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87263D68-33D7-4F80-9831-EDABF870C011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1E68BD-D42F-44FC-A263-883D61BCD0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1E68BD-D42F-44FC-A263-883D61BCD0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1E68BD-D42F-44FC-A263-883D61BCD0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1E68BD-D42F-44FC-A263-883D61BCD0BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
