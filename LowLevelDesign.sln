@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedIn", "src\LinkedIn\LinkedIn.csproj", "{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zomato", "src\Zomato\Zomato.csproj", "{7AA44CAE-4029-4AB5-8CE9-DA1B2977D66F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{348D7A3D-D3DC-4AE7-8C7A-5556247AA19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA44CAE-4029-4AB5-8CE9-DA1B2977D66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA44CAE-4029-4AB5-8CE9-DA1B2977D66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA44CAE-4029-4AB5-8CE9-DA1B2977D66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA44CAE-4029-4AB5-8CE9-DA1B2977D66F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
